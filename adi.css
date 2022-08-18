@@ -1,0 +1,76 @@
+/* navbar-css starts here  */
+
+.nav-rowheight {
+  padding-top: 75px !important;
+}
+a {
+  text-decoration: none !important;
+  color: #000000 !important;
+}
+.navrow1 {
+  font-size: 21px;
+  padding-top: 2px !important;
+}
+.btn-link {
+  font-size: 21px !important;
+  color: #000000 !important;
+  text-decoration: none !important;
+}
+/* navbar-css ends here */
+
+/* section-1 starts here */
+
+h1 {
+  font-size: 70px !important;
+  font-weight: 700 !important;
+  color: #000000 !important;
+  line-height: 77px !important;
+}
+.sec1input-bg {
+  background: #eff2f6 !important;
+}
+.sec-1img {
+  padding-left: 86px;
+}
+/* section-1 ends here */
+*/
+
+/* section-2 starts here */
+
+h2 {
+  font-size: 72px !important;
+  font-weight: 500 !important;
+  color: #000000 !important;
+}
+
+.sec-2row1 {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.sec-2row2 {
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+/* section-2 ends here */
+
+/* section-3 starts here */
+.sec-3img {
+  padding-left: 110px;
+}
+.sec-3row1 {
+  padding-right: 247px;
+}
+.sec-3row2 {
+  padding-right: 134px;
+  padding-left: 134px;
+  padding-top: 95px !important;
+}
+/* section-3 ends here */
+
+/* section-4 starts here */
+.sec-4row1 {
+  padding-top: 135px;
+}
+
+/* section-4 ends here */

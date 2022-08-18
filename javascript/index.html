@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="type.css" />
+  </head>
+  <body>
+    <h1>Hello</h1>
+
+    <script>
+      var threeD = [
+        [[10, 20, 30, 40, 50]],
+        [[1, 2, 3, 4, 5]],
+        [[2, 4, 6, 8, 10]],
+      ];
+
+      let sum = 0;
+
+      for (let i = 0; i < threeD.length; i++) {
+        threeD[i].forEach((element) => {
+          for (let j = 0; j < element.length; j++) {
+            sum = sum + element[j];
+          }
+        });
+      }
+      console.log(sum);
+    </script>
+
+    <script src="adi.js"></script>
+  </body>
+</html>
